@@ -241,8 +241,16 @@ header h1 {
     background-image: url("https://d1gtq9mqg5x3oe.cloudfront.net/images/spcs/noncredit/programs/coding/coding-bootcamp/hero/coding-hero-1500x500.jpg");
 }
 
-.gitcommand {
+.bill_reminder {
     background-image: url("http://git-scm.com/images/logos/1color-orange-lightbg@2x.png");
+}
+
+.e_commerce {
+    background-image: url("./IMG/IMG_0154.JPG");
+}
+
+.express_notes {
+    background-image: url("./IMG/patrick.jpeg");
 }
 
 @media screen and (max-width: 980px) {
